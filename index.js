@@ -7,6 +7,7 @@ function hello (){
     console.log("good")
 }
 
-function new(){
+function newf(){
+    console.log("new feature")
     console.log("new feature")
 }
