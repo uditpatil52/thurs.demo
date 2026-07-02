@@ -6,3 +6,7 @@ function hello (){
     console.log("helllo")
     console.log("good")
 }
+
+function new(){
+    console.log("new feature")
+}
