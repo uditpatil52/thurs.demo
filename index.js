@@ -4,4 +4,5 @@ let date = 12;
 
 function hello (){
     console.log("helllo")
+    console.log("good")
 }
