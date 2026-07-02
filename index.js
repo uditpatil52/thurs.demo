@@ -15,3 +15,7 @@ function new1(){
     console.log("new feature")
     console.log("new feature")
 }
+function new2(){
+    console.log("new feature")
+    console.log("new feature")
+}
